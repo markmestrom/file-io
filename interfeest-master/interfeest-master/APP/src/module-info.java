@@ -1,0 +1,3 @@
+module APP {
+    requires BLL;
+}
